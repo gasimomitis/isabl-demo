@@ -1,5 +1,9 @@
 # Isabl Demo App <img src="./assets/isabl-logo.png" height=28px>
 
+## Presentation
+
+[Slides](https://docs.google.com/presentation/d/1TzVM3pfmu3fYjmZ54iEjKzJWjdlmhfspFL52AevVCuw/edit?usp=sharing)
+
 ## Installation
 
 ```bash
